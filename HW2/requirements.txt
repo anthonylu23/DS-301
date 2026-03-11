@@ -1,5 +1,5 @@
-torch>=2.9
-torchvision>=0.24
+# PyTorch is cluster- and CUDA-specific on OOD. Prefer the preinstalled build
+# or install it separately for your environment instead of forcing a pip upgrade here.
 transformers>=4.19
 wandb>=0.25
 python-dotenv>=1.0
