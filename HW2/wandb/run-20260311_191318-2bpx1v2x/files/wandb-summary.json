@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":180},"_runtime":180,"_step":4007,"checkpoint_iteration":4000,"loss":2.375211372995512,"iteration":4000,"percent_complete":100,"final_iteration":4000,"_timestamp":1.7732709815972345e+09,"latest_checkpoint":"data/save/cb_model/movie-corpus/2-2_500/4000_checkpoint.tar","final_batch_loss":2.375211372995512}

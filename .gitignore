@@ -2,3 +2,6 @@
 *.DS_Store
 .env
 *.env
+data/movie-corpus/
+P1.ipynb
+
