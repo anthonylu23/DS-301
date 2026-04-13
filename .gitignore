@@ -4,4 +4,6 @@
 *.env
 data/movie-corpus/
 P1.ipynb
-
+HW4/dialogue-summary-training-*/
+HW4/peft-dialogue-summary-training-*/
+HW4/peft-dialogue-summary-checkpoint-local/
